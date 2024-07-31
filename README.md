@@ -10,6 +10,7 @@ Click this button to open these coding materials in Google Colab
 
 Function you may need for 05_Functions:
 
+```
 def gc_content_4(DNA):
   counter = 0
   for i in range(len(DNA)):
@@ -18,3 +19,4 @@ def gc_content_4(DNA):
   gc_content = counter / 4
   gc_content_percent = gc_content * 100
   return gc_content_percent
+```
