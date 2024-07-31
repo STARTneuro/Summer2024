@@ -32,3 +32,9 @@ data_url = 'https://raphaelvallat.com/images/tutorials/bandpower/data.txt'
 sleep_data, headers = urllib.request.urlretrieve(data_url, './Data/sleep_data.txt')
 
 ```
+
+```
+loadtxt = np.loadtxt(fname='./Data/sleep_data.txt', delimiter=',')
+data = loadtxt
+np.shape(data)
+```
