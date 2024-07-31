@@ -30,11 +30,19 @@ os.makedirs('./Data', exist_ok=True)
 # Get the data and save it as "sleep_data.txt"
 data_url = 'https://raphaelvallat.com/images/tutorials/bandpower/data.txt'
 sleep_data, headers = urllib.request.urlretrieve(data_url, './Data/sleep_data.txt')
-
-```
-
-```
 loadtxt = np.loadtxt(fname='./Data/sleep_data.txt', delimiter=',')
 data = loadtxt
-np.shape(data)
 ```
+
+For notebook 9:
+```
+import urllib.request
+url = 'https://raw.githubusercontent.com/STARTneuro/Summer2024/main/data/inflammation-01.csv'
+
+# Load the data using numpy
+response = urllib.request.urlopen(url)
+data = np.loadtxt(response, delimiter=',')
+
+```
+
+
