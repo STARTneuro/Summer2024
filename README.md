@@ -21,8 +21,14 @@ def gc_content_4(DNA):
   return gc_content_percent
 ```
 ```
+import os
 import urllib.request
 
+# Create the directory if it doesn't exist
+os.makedirs('./Data', exist_ok=True)
+
+# Get the data and save it as "sleep_data.txt"
 data_url = 'https://raphaelvallat.com/images/tutorials/bandpower/data.txt'
 sleep_data, headers = urllib.request.urlretrieve(data_url, './Data/sleep_data.txt')
+
 ```
