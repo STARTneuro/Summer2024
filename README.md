@@ -20,3 +20,9 @@ def gc_content_4(DNA):
   gc_content_percent = gc_content * 100
   return gc_content_percent
 ```
+```
+import urllib.request
+
+data_url = 'https://raphaelvallat.com/images/tutorials/bandpower/data.txt'
+sleep_data, headers = urllib.request.urlretrieve(data_url, './Data/sleep_data.txt')
+```
