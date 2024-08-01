@@ -25,3 +25,7 @@ Hopefully this is not the last time you run into Python. You may feel like you w
 
 Option 1: You want to take a more formal course. 
 
+Option 2: You want to teach yourself more basics
+
+Option 3: You want to keep moving forward
+
