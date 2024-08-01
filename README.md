@@ -1,5 +1,5 @@
 # Summer2024
-Coding materials for Summer 2024
+Materials from week 3 of STARTneuro: Intro to Extracellular Recording and Python
  
 
 ## Open in Google Colab
