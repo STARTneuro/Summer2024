@@ -35,3 +35,7 @@ data = np.loadtxt(response, delimiter=',')
 
 ## Resources for next steps in your coding journey
 
+Hopefully this is not the last time you run into Python. You may feel like you want a more formal course in Python, you want to go back and teach yourself some basics or you might be ready to keep moving forward. Luckily there are many fantastic resources for all those options. I can't begin to write down everything, but I'll try my best to give some resources where I can :)
+
+Option 1: You want to take a more formal course. 
+
