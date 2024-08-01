@@ -7,17 +7,7 @@ Click this button to open these coding materials in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/STARTneuro/Summer2024)
 
-
-For notebook 9:
-```
-import urllib.request
-url = 'https://raw.githubusercontent.com/STARTneuro/Summer2024/main/data/inflammation-01.csv'
-
-# Load the data using numpy
-response = urllib.request.urlopen(url)
-data = np.loadtxt(response, delimiter=',')
-
-```
+**Note: if a cell isn't running and you remember us correcting it together in class, the update is now located in the solution notebook.**
 
 ## Resources for next steps in your coding journey
 
