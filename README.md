@@ -13,7 +13,7 @@ Click this button to open these coding materials in Google Colab
 
 Hopefully this is not the last time you run into Python. You may feel like you want a more formal course in Python, you want to go back and teach yourself some basics or you might be ready to keep moving forward. Luckily there are many fantastic resources for all those options. I can't begin to write down everything, but I'll try my best to give some resources where I can :)
 
-Option 1: You want to take a more formal course. 
+**Option 1: You want to take a more formal course. **
 
 Take a course here at UCSD. I personally recommend BILD 62 Introduction to
 Python for Biologists as it is taught by our very own Dr. Ashley Juavinett and covers the same material as any other intro to python course in the computer science department, but is more geard to people with interests or majors in biological sciences. Of course, UCSD has many courses not only in Python that you can take to further your knowledge and skills. 
