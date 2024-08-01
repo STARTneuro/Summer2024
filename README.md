@@ -16,7 +16,7 @@ Hopefully this is not the last time you run into Python. You may feel like you w
 **Option 1: You want to take a more formal course.**
 
 Take a course here at UCSD. I personally recommend BILD 62 Introduction to
-Python for Biologists as it is taught by our very own Dr. Ashley Juavinett and covers the same material as any other intro to python course in the computer science department, but is more geard to people with interests or majors in biological sciences. Of course, UCSD has many courses not only in Python that you can take to further your knowledge and skills. 
+Python for Biologists as it is taught by our very own Dr. Ashley Juavinett and covers the same material as any other intro to python course in the computer science department, but is more geared to people with interests or majors in biological sciences. Of course, UCSD has many courses not only in Python that you can take to further your knowledge and skills. 
 
 Option 2: You want to teach yourself more basics
 
